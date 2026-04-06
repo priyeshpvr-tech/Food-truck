@@ -1,0 +1,34 @@
+{
+  "PartyBus_Sheet": [
+    {
+      "coinCost": "2000",
+      "payoutGem": "2",
+      "targetSession": "6",
+      "coolDownTimeInHours": "2"
+    },
+    {
+      "coinCost": "3000",
+      "payoutGem": "3",
+      "targetSession": "18",
+      "coolDownTimeInHours": "2.5"
+    },
+    {
+      "coinCost": "4000",
+      "payoutGem": "4",
+      "targetSession": "66",
+      "coolDownTimeInHours": "3"
+    },
+    {
+      "coinCost": "5000",
+      "payoutGem": "5",
+      "targetSession": "162",
+      "coolDownTimeInHours": "3.5"
+    },
+    {
+      "coinCost": "6000",
+      "payoutGem": "6",
+      "targetSession": "999999",
+      "coolDownTimeInHours": "4"
+    }
+  ]
+}
