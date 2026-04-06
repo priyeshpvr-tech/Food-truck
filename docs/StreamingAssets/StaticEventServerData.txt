@@ -1,0 +1,65 @@
+  {
+  	"StarCollect_VarientA":
+    [
+      {
+      	"MileStone":"Milestone1",
+        "CoinReward":"0",
+        "GemsReward": "5",
+        "StarsRequired":"10"
+      },
+      {
+      	"MileStone":"Milestone2",
+        "CoinReward":"0",
+        "GemsReward": "5",
+        "StarsRequired":"25"
+      },
+      {
+      	"MileStone":"Milestone3",
+        "CoinReward":"0",
+        "GemsReward": "10",
+        "StarsRequired":"50"
+      }
+    ],
+    "StarCollect_VarientB":
+    [
+      {
+        "MileStone":"Milestone1",
+        "CoinReward":"0",
+        "GemsReward": "5",
+        "StarsRequired":"14"
+      },
+      {
+        "MileStone":"Milestone2",
+        "CoinReward":"0",
+        "GemsReward": "5",
+        "StarsRequired":"35"
+      },
+      {
+        "MileStone":"Milestone3",
+        "CoinReward":"0",
+        "GemsReward": "10",
+        "StarsRequired":"70"
+      }
+    ],
+    "StarCollect_VarientC":
+    [
+      {
+        "MileStone":"Milestone1",
+        "CoinReward":"0",
+        "GemsReward": "5",
+        "StarsRequired":"18"
+      },
+      {
+        "MileStone":"Milestone2",
+        "CoinReward":"0",
+        "GemsReward": "5",
+        "StarsRequired":"45"
+      },
+      {
+        "MileStone":"Milestone3",
+        "CoinReward":"0",
+        "GemsReward": "10",
+        "StarsRequired":"90"
+      }
+    ]
+  }
